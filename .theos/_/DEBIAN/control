@@ -1,0 +1,11 @@
+Package: com.pxcex.blackkeyboard
+Name: BlackKeyboard
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: System Wide Dark Keyboard.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Depiction: https://paxcex.github.io/depictions/com.pxcex.blackkeyboard/index.html
+Version: 2.0.0
+Installed-Size: 488
